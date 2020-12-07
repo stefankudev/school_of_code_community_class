@@ -1,2 +1,10 @@
-# school_of_code_community_class
-Links to the CSS codepens for the School of Code cohort 4 community class
+# School of Code Community Class - CSS
+
+## CSS Workshop 1:
+### https://codepen.io/stefan_kudev/pen/JjRoaBj?editors=0100
+
+## CSS Workshop 2:
+### https://codepen.io/stefan_kudev/pen/jOMqvoV?editors=0100
+
+## CSS Workshop 3:
+### https://codepen.io/stefan_kudev/pen/VwKaEjO?editors=0100
